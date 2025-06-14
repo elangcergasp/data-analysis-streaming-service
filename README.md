@@ -6,7 +6,7 @@
 | File | Deskripsi |
 | - | - |
 | `README.md` | Penjelasan gambaran umum project |
-| `P0M1_elang_cergasp.ipynb` | Notebook yang berisi pengolahan data dengan python |
+| `data_analysis.ipynb` | Notebook yang berisi pengolahan data dengan python |
 | `streaming-service-data.zip` | Data Mentah Streaming Service dari [Kaggle @akashanandt](https://www.kaggle.com/datasets/akashanandt/streaming-service-data) |
 | `streaming.csv` | Data Mentah Streaming Service dari file kompresi streaming-service-data.zip yang sudah diekstrak menjadi file CSV |
 | `streaming_clean.csv` | Data Streaming Service hasil pengolahan |
